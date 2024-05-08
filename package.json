@@ -1,0 +1,22 @@
+{
+  "name": "first-package-test-speederx",
+  "version": "1.1.0",
+  "description": "first-package-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpeederX/first-package-test.git"
+  },
+  "keywords": [
+    "first"
+  ],
+  "author": "SpeederX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpeederX/first-package-test/issues"
+  },
+  "homepage": "https://github.com/SpeederX/first-package-test#readme"
+}
